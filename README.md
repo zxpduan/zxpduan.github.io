@@ -1,3 +1,4 @@
+<meta http-equiv="refresh" content="1;url=https://github.com/zxpduan">
 ## 欢迎来到我的主页 
 
 You can use the [editor on GitHub](https://github.com/zxpduan/zxpduan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
